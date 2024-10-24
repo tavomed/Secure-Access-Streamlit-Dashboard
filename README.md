@@ -25,8 +25,8 @@ Before you start, make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/tavomed/Secure-Access.git
-   cd Secure-Access
+   git clone https://github.com/tavomed/Secure-Access-Streamlit-Dashboard.git
+   cd Secure-Access-Streamlit-Dashboard
    ```
 
 2. **Install dependencies**:
